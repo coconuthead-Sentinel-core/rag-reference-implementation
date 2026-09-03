@@ -9,7 +9,7 @@ description = "Retrieval-Augmented Generation reference implementation: pluggabl
 readme = "README.md"
 requires-python = ">=3.10"
 license = { file = "LICENSE" }
-authors = [{ name = "Shannon Brian Kelly" }]
+authors = [{ name = "Shannon Brian Kelley" }]
 keywords = ["rag", "retrieval-augmented-generation", "vector-search", "bm25", "hybrid-retrieval", "rrf", "citations"]
 classifiers = [
   "Development Status :: 5 - Production/Stable",
